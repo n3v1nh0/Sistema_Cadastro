@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("Sistema_Cadastro"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("SistemaCadastro"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6b7b57ae88477597668641c7d794ebfe5990ab8"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("Sistema_Cadastro"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("Sistema_Cadastro"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("SistemaCadastro"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("SistemaCadastro"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 

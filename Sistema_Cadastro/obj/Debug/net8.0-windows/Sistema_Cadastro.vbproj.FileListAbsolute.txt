@@ -1,0 +1,8 @@
+C:\Users\ander\OneDrive\Documentos\GitHub\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\net8.0-windows\Sistema_Cadastro.frmLogin.resources
+C:\Users\ander\OneDrive\Documentos\GitHub\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\net8.0-windows\Sistema_Cadastro.vbproj.GenerateResource.cache
+C:\Users\ander\OneDrive\Documentos\GitHub\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\net8.0-windows\Sistema_Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\GitHub\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\net8.0-windows\Sistema_Cadastro.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\GitHub\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\net8.0-windows\Sistema_Cadastro.AssemblyInfo.vb
+C:\Users\ander\OneDrive\Documentos\GitHub\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\net8.0-windows\Sistema_Cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\GitHub\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\net8.0-windows\Sistema_Cadastro.sourcelink.json
+C:\Users\ander\OneDrive\Documentos\GitHub\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\net8.0-windows\Sistema_Cadastro.Form1.resources
