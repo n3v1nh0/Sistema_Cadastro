@@ -1,6 +1,10 @@
 ﻿Public Class frmLogin
+
+    Dim nomeTela As String
+
     Private Sub frmLogin_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        MsgBox("Abriu o Formulário", MsgBoxStyle.Information, "Tela de Login")
+        nomeTela = "Tela de Login"
+        MsgBox("Abriu o Formulário", MsgBoxStyle.Information, nomeTela)
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
