@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SistemaCadastro"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e923ac18884c07479854b1b25b6e3ef1bd45723e"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+559c0b6f1e4f2f175f088f0b84b5b943b12c962c"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SistemaCadastro"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SistemaCadastro"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
