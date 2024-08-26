@@ -21,7 +21,7 @@
         num1 = 5
         num2 = 4
         total = num1 + num2
-        MsgBox(total)
+        MsgBox("O valor total é " & total, MsgBoxStyle.Information, "Tela de Login")
 
     End Sub
 
